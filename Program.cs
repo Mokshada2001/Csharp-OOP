@@ -1,5 +1,6 @@
 ﻿using OOPS;
 using System;
+using OOPS.Indexer;
 
 Console.WriteLine("Hello World!");
 
@@ -38,4 +39,24 @@ objfather.FatherMethod();
 Child objchild = new Child();
 objchild.FatherMethod();
 objchild.ChildMethod();
+
+
+//Interface
+IShape[] shapes = new IShape[3];
+shapes[0] = new Circle(5);
+shapes[1] = new Square(4);
+shapes[2] = new Triangle(4, 5);
+foreach (IShape shape in shapes)
+{
+shape.Display();
+Console.WriteLine("Area: " + shape.CalculateArea());
+Console.WriteLine();
+}
+Console.ReadLine();
+
+
+MyCollection collection = new MyCollection();
+collection[0] = "Hello";
+string value = collection[0];
+Console.WriteLine(value);  
 
