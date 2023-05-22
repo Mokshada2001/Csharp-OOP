@@ -1,0 +1,15 @@
+F:\SEM VI\4.NCC - NET CENTRIC COMPUTING\CLASS_ASSIGNMENT_NCC\oops\bin\Debug\net7.0\oops.exe
+F:\SEM VI\4.NCC - NET CENTRIC COMPUTING\CLASS_ASSIGNMENT_NCC\oops\bin\Debug\net7.0\oops.deps.json
+F:\SEM VI\4.NCC - NET CENTRIC COMPUTING\CLASS_ASSIGNMENT_NCC\oops\bin\Debug\net7.0\oops.runtimeconfig.json
+F:\SEM VI\4.NCC - NET CENTRIC COMPUTING\CLASS_ASSIGNMENT_NCC\oops\bin\Debug\net7.0\oops.dll
+F:\SEM VI\4.NCC - NET CENTRIC COMPUTING\CLASS_ASSIGNMENT_NCC\oops\bin\Debug\net7.0\oops.pdb
+F:\SEM VI\4.NCC - NET CENTRIC COMPUTING\CLASS_ASSIGNMENT_NCC\oops\obj\Debug\net7.0\oops.csproj.AssemblyReference.cache
+F:\SEM VI\4.NCC - NET CENTRIC COMPUTING\CLASS_ASSIGNMENT_NCC\oops\obj\Debug\net7.0\oops.GeneratedMSBuildEditorConfig.editorconfig
+F:\SEM VI\4.NCC - NET CENTRIC COMPUTING\CLASS_ASSIGNMENT_NCC\oops\obj\Debug\net7.0\oops.AssemblyInfoInputs.cache
+F:\SEM VI\4.NCC - NET CENTRIC COMPUTING\CLASS_ASSIGNMENT_NCC\oops\obj\Debug\net7.0\oops.AssemblyInfo.cs
+F:\SEM VI\4.NCC - NET CENTRIC COMPUTING\CLASS_ASSIGNMENT_NCC\oops\obj\Debug\net7.0\oops.csproj.CoreCompileInputs.cache
+F:\SEM VI\4.NCC - NET CENTRIC COMPUTING\CLASS_ASSIGNMENT_NCC\oops\obj\Debug\net7.0\oops.dll
+F:\SEM VI\4.NCC - NET CENTRIC COMPUTING\CLASS_ASSIGNMENT_NCC\oops\obj\Debug\net7.0\refint\oops.dll
+F:\SEM VI\4.NCC - NET CENTRIC COMPUTING\CLASS_ASSIGNMENT_NCC\oops\obj\Debug\net7.0\oops.pdb
+F:\SEM VI\4.NCC - NET CENTRIC COMPUTING\CLASS_ASSIGNMENT_NCC\oops\obj\Debug\net7.0\oops.genruntimeconfig.cache
+F:\SEM VI\4.NCC - NET CENTRIC COMPUTING\CLASS_ASSIGNMENT_NCC\oops\obj\Debug\net7.0\ref\oops.dll
